@@ -2,7 +2,7 @@
 
 ОКРУЖЕНИЕ И ЗАПУСК: 
 
-Необходимые библиотеки: Selenium 4.11.2, Google Chrome, VS Code
+Необходимо: Selenium 4.11.2, Google Chrome, VS Code
 
 Запуск скрипта из файла main.py.
 
