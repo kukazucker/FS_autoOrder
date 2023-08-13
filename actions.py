@@ -136,7 +136,7 @@ def verification_method(driver, veri_method, phone_number):
 
 def verification_form(driver):
 
-    time.sleep(3)
+    time.sleep(2)
     # does the customer order at night
     is_night(driver)
     # get the user's number and verification method
